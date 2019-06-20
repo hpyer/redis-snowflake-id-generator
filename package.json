@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "koa": "^2.7.0",
+    "redis-snowflake-id": "^1.0.1"
+  }
+}
